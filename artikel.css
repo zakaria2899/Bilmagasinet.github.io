@@ -1,0 +1,212 @@
+
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+body{
+    
+    margin: 0;
+    
+    background-color: #1e1e1e;
+}
+
+
+.navigation-bar {
+
+    width: 100%; 
+    margin: 0;
+    
+    display: flex;
+    
+    flex-flow: row wrap;
+    
+    justify-content: space-around;
+    
+    
+height: 80px; 
+    
+background-color: #1e1e1e; 
+}
+.logo {
+display: inline-block;
+    
+vertical-align: top;
+    
+width: 50px;
+   
+height: 50px;
+    
+margin-right: 20px;
+    
+margin-top: 15px;    
+}
+.navigation-bar > a {
+    
+display: inline-block;
+    
+vertical-align: top;
+    
+margin-right: 20px;
+   
+height: 80px;        
+    
+line-height: 80px;    
+}
+
+.navigation-bar a{
+    
+  text-decoration: none; 
+    
+    color: white;
+    
+    font-family: 'Poppins', sans-serif;
+
+
+    font-size: 30px;
+    
+    
+}    
+
+.navigation-bar img{
+    
+width: 10%;
+    
+
+}
+    
+    
+
+
+
+
+.footer{
+    
+display: flex;
+    
+    flex-flow: row wrap;
+    
+    justify-content: space-around;
+    
+    background-color: #1e1e1e;
+    
+    
+    
+    
+    
+}
+
+.footer ul li{
+    
+  list-style-type: none;
+    
+    color: white;
+    
+    font-family: 'Poppins', sans-serif;
+
+     
+    
+}
+    
+
+
+
+#læsmere{
+color: white;
+font-family: 'Poppins', sans-serif;
+text-decoration: none;
+    
+    
+}
+
+.overskrift2{
+    
+ font-family:sans-serif;   
+    
+font-size: 50px;
+
+color: white;
+
+margin-left:4%;
+    
+    
+}
+
+.overskrift3{
+
+font-family:sans-serif;   
+    
+font-size: 30px;
+
+color: white;
+
+margin-left:4%;
+    
+    
+}
+
+.tekst{
+    
+font-family:sans-serif;   
+    
+font-size: 20px;
+
+color: white;
+
+margin-left:4%;
+
+line-height: 2;
+    
+}
+
+
+.overskrift4{
+
+font-family:sans-serif;   
+    
+font-size: 30px;
+
+color: white;
+    
+margin-left:4%;
+
+    
+}
+
+
+.tekst2{
+    
+font-family:sans-serif;   
+    
+font-size: 20px;
+
+color: white;
+
+margin-left:4%;
+
+line-height: 2;
+
+    
+}
+
+
+.cklasse{
+    
+width:40%; 
+margin-left: 4%;
+    
+
+
+}
+
+.rund{
+    
+margin-left: 4%;
+
+margin-right: 4%;
+
+border-top: 8px solid #262ccb;
+border-radius: 5px;
+    
+
+    
+}
+
+
